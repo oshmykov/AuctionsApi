@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbsMXcrHLy0ClT/LUaIpzaAAAAAACAAAAAAAQZgAAAAEAACAAAAC9o7vHNYmXCRvoLYE/k5PmiKEJ8BuNx4v+HbRqUKrruAAAAAAOgAAAAAIAACAAAADUe0eI+YRQZl7orhgaKWrZ3OW9TDb/bcbfSg2nnmOmXIAAAAD5Fpw2+J77Xl4Z9TYXB5VSHWp0GjYp3+PLU+pASIawjkxluQhQVE4r56Jh8jMgKnmQGqZfEyjc8ORx2rdOx4zix3kCSXFLhVDuIvAh/pCo1mE3HBM3G0AgyxiksOzXmcj4rpy5sLEw3lQOuuDoLJYSl61qQdPRfKdPyM73e6fyMUAAAADN6EHmO1BHVLAlNOJ8FsX/q05DRcP8kX3DZaCQjSH7wu4e9A9D76GZhBJ2tHk0n/XQvST543gnH2GO4D+Uimmm</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:oshmykov.database.windows.net,1433;Initial Catalog=IdentityServer4WithAspIdentity;User Id=oshmykov@oshmykov.database.windows.net;Password=Schastie2013!;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
