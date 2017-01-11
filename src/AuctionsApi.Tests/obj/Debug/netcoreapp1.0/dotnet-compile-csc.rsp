@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\bin\Debug\netcoreapp1.0\AuctionsApi.Tests.dll"
+"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\bin\Debug\netcoreapp1.0\AuctionsApi.Tests.dll"
 -r:"C:\Users\jytu\.nuget\packages\Castle.Core\4.0.0-beta001\lib\netstandard1.3\Castle.Core.dll"
 -r:"C:\Users\jytu\.nuget\packages\dotnet-test-xunit\2.2.0-preview2-build1029\lib\netcoreapp1.0\dotnet-test-xunit.dll"
 -r:"C:\Users\jytu\.nuget\packages\IdentityModel\2.1.1\lib\netstandard1.3\IdentityModel.dll"
@@ -224,10 +224,10 @@
 -r:"C:\Users\jytu\.nuget\packages\xunit.extensibility.execution\2.2.0-beta4-build3444\lib\netstandard1.0\xunit.execution.dotnet.dll"
 -r:"C:\Users\jytu\.nuget\packages\xunit.runner.reporters\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.reporters.dotnet.dll"
 -r:"C:\Users\jytu\.nuget\packages\xunit.runner.utility\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.utility.dotnet.dll"
--r:"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi\bin\Debug\netcoreapp1.0\AuctionsApi.dll"
-"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Controllers\AuctionsControllerTests.cs"
-"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Controllers\ParticipantsControllerTests.cs"
-"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl\CommandResultTests.cs"
-"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\AuctionsMongoServiceTests.cs"
-"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\ParticipantsMongoServiceTests.cs"
-"d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Properties\AssemblyInfo.cs"
+-r:"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi\bin\Debug\netcoreapp1.0\AuctionsApi.dll"
+"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Controllers\AuctionsControllerTests.cs"
+"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Controllers\ParticipantsControllerTests.cs"
+"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl\CommandResultTests.cs"
+"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\AuctionsMongoServiceTests.cs"
+"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\ParticipantsMongoServiceTests.cs"
+"D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Properties\AssemblyInfo.cs"

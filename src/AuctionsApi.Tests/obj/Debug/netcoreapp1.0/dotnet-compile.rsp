@@ -1,5 +1,5 @@
---temp-output:d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\obj\Debug\netcoreapp1.0\
---out:d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\bin\Debug\netcoreapp1.0\AuctionsApi.Tests.dll
+--temp-output:D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\obj\Debug\netcoreapp1.0\
+--out:D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\bin\Debug\netcoreapp1.0\AuctionsApi.Tests.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -226,10 +226,10 @@
 --reference:C:\Users\jytu\.nuget\packages\xunit.extensibility.execution\2.2.0-beta4-build3444\lib\netstandard1.0\xunit.execution.dotnet.dll
 --reference:C:\Users\jytu\.nuget\packages\xunit.runner.reporters\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.reporters.dotnet.dll
 --reference:C:\Users\jytu\.nuget\packages\xunit.runner.utility\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.utility.dotnet.dll
---reference:d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi\bin\Debug\netcoreapp1.0\AuctionsApi.dll
-d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Controllers\AuctionsControllerTests.cs
-d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Controllers\ParticipantsControllerTests.cs
-d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl\CommandResultTests.cs
-d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\AuctionsMongoServiceTests.cs
-d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\ParticipantsMongoServiceTests.cs
-d:\users\jytu\documents\visual studio 2015\Projects\AuctionsApi\src\AuctionsApi.Tests\Properties\AssemblyInfo.cs
+--reference:D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi\bin\Debug\netcoreapp1.0\AuctionsApi.dll
+D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Controllers\AuctionsControllerTests.cs
+D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Controllers\ParticipantsControllerTests.cs
+D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl\CommandResultTests.cs
+D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\AuctionsMongoServiceTests.cs
+D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Models\Business\Impl.Mongo\ParticipantsMongoServiceTests.cs
+D:\Users\jytu\Documents\visual studio 2015\Projects\test\AuctionsApi\src\AuctionsApi.Tests\Properties\AssemblyInfo.cs
